@@ -1,0 +1,6 @@
+.a {
+  background: #f60;
+  & .test {
+    background: url('../images/invite_btn.png');
+  }
+}
